@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f7f9fc;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            text-align: center;
+            color: blueviolet;
+        }
+
+        h3 {
+            text-align: center;
+            color: blueviolet;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>MY SELF</h2>
+    <p>
+    <p>
+    <h3>About Me</h3>
+    I'm <b>Emmanuel Ampiaw</b>, and I'm <b>20</b> years old. <b>I live in Weija, Bortianor.</b>
+    Life has been moving steadily, and I'm focused on becoming a better version of myself each day. I enjoy discovering 
+    new opportunities, learning new things, and meeting amazing people along the way. For now, I'm taking life calmly, 
+    appreciating every little moment and staying positive through it all.
+    </p>
+
+    <p>
+    <h3>Hobbies</h3>
+    I'm passionate about football — whether playing or watching, it always excites me. I also enjoy reading because 
+    it opens my mind to new ideas and knowledge. And of course, gaming is one of my all-time favorite ways to relax 
+    and have fun after a long day.
+    </p>
+
+</body>
+
+</html>
